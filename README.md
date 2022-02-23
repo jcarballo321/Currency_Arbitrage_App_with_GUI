@@ -96,6 +96,12 @@ def main():
 - Explain our initial ~modular concept
 - Show images of the results from the soltions
 
+## Visualizations
+
+![Application code Example 1](A.png)
+![Application code Example 2](PP.JPG)
+![Application code Example 3](PP.JPG)
+
 ## Next steps
 - Further build out the user interface
 - Expand functionality of application (e.g more currencies)
