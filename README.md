@@ -100,7 +100,7 @@ def main():
 
 ![Application code Example 1](A.png)
 ![Application code Example 2](B.png)
-![Application code Example 3](PP.JPG)
+![Application code Example 3](C.png)
 
 ## Next steps
 - Further build out the user interface
