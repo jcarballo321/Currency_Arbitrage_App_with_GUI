@@ -99,7 +99,7 @@ def main():
 ## Visualizations
 
 ![Application code Example 1](A.png)
-![Application code Example 2](PP.JPG)
+![Application code Example 2](B.png)
 ![Application code Example 3](PP.JPG)
 
 ## Next steps
